@@ -1,0 +1,11 @@
+{
+  "name": "books-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Book Store",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}
